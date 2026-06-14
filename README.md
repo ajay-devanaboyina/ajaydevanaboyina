@@ -10,11 +10,10 @@
 - SQL
 - Data Structures & Algorithms
 - Machine Learning & Deep Learning
-- REST APIs and Backend Development
+- Fast APIs and Backend Development
 
 🚀 Projects:
 - AI-Driven Android Malware Detection
-- Machine Learning Applications with Python
 
 💡 Areas of Interest:
 - Software Engineering
@@ -28,11 +27,6 @@
 - Backend : REST APIs,Django
 - Databases: MySQL
 - Tools: Git, GitHub, VS Code, MySQL Workbench
-📚 Currently Learning:
-- Advanced Python
-- Java Backend Development
-- System Design Fundamentals
-- Design Patterns & Multithreading
 
 📫 Connect with me:
 - LinkedIn: www.linkedin.com/in/ajay-devanaboyina
