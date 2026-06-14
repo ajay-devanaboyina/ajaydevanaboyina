@@ -13,7 +13,7 @@
 - Fast APIs and Backend Development
 
 🚀 Projects:
-- AI-Driven Android Malware Detection
+- AI-Driven Android Malware Detection using Machine Learning
 
 💡 Areas of Interest:
 - Software Engineering
