@@ -10,7 +10,7 @@
 - SQL
 - Data Structures & Algorithms
 - Machine Learning & Deep Learning
-- Fast APIs and Backend Development
+- FastAPI and Backend Development
 
 🚀 Projects:
 - AI-Driven Android Malware Detection using Machine Learning
@@ -24,7 +24,7 @@
 
 🛠️ Tech Stack:
 - Languages: Python, Java, SQL
-- Backend : Fast APIs APIs,Django
+- Backend : FastAPI,Django
 - Databases: MySQL
 - Tools: Git, GitHub, VS Code, MySQL Workbench
 
