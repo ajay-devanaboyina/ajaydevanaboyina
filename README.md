@@ -24,7 +24,7 @@
 
 🛠️ Tech Stack:
 - Languages: Python, Java, SQL
-- Backend : FastAPI,Django
+- Backend : FastAPI, Django
 - Databases: MySQL
 - Tools: Git, GitHub, VS Code, MySQL Workbench
 
